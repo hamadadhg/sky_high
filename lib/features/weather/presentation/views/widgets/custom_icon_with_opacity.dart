@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class CustomIconWithOpacity extends StatelessWidget {
@@ -9,3 +10,4 @@ class CustomIconWithOpacity extends StatelessWidget {
     return Opacity(opacity: 0.8, child: Icon(iconData, size: height * 0.03));
   }
 }
+*/

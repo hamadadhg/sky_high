@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class CustomSnowAnimationSection extends StatelessWidget {
@@ -48,3 +49,4 @@ class CustomSnowAnimationSection extends StatelessWidget {
     );
   }
 }
+*/

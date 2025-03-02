@@ -1,3 +1,4 @@
+/*
 // ignore_for_file: use_build_context_synchronously
 import 'package:flutter/material.dart';
 import 'package:sky_high/core/constant/duration_constant.dart';
@@ -36,3 +37,4 @@ class _CustomAnimationViewBodyState extends State<CustomAnimationViewBody> {
     );
   }
 }
+*/

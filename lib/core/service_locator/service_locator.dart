@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 import 'package:sky_high/core/services/api_services.dart';
@@ -10,3 +11,4 @@ void serviceLocator() {
     WeatherRepositoryImplementation(apiServices: ApiServices(dio: Dio())),
   );
 }
+*/

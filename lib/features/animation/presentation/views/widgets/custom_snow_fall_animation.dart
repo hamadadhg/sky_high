@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/core/constant/duration_constant.dart';
 import 'package:sky_high/features/animation/presentation/views/widgets/custom_snow_animation_section.dart';
@@ -45,3 +46,4 @@ class _CustomSnowFallAnimationState extends State<CustomSnowFallAnimation>
     //you don't need to animationController.forward() to make the animation's work, because the .repeat() don't need to .forward(), and remember ..repeat it's mean the code before .. will run first and after it will run the code after ..
   }
 }
+*/

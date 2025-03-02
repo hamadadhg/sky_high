@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/core/styles/style_to_texts.dart';
 import 'package:sky_high/features/weather/presentation/managers/models/location_and_current_model/location_and_current_model.dart';
@@ -31,3 +32,4 @@ class CustomAppBar extends StatelessWidget {
     );
   }
 }
+*/

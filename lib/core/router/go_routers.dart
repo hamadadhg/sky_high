@@ -1,3 +1,4 @@
+/*
 import 'package:go_router/go_router.dart';
 import 'package:sky_high/core/constant/string_variables_constant.dart';
 import 'package:sky_high/features/animation/presentation/views/animation_view.dart';
@@ -22,3 +23,4 @@ class GoRouters {
     ],
   );
 }
+*/

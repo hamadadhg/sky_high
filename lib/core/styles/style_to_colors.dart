@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 abstract class StyleToColors {
@@ -13,3 +14,4 @@ abstract class StyleToColors {
   static const Color transparentBlueColor = Color(0xff136CAE);
   static const Color skyBlueColor = Color(0xff88D2F8);
 }
+*/

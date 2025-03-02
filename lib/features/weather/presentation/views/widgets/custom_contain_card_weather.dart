@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/managers/models/forecast_day_model/forecast_day_model.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_forecast_texts_section.dart';
@@ -25,3 +26,4 @@ class CustomContainCardWeather extends StatelessWidget {
     );
   }
 }
+*/

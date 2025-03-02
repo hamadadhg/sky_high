@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/search/presentation/views/widget/custom_page_view.dart';
 import 'package:sky_high/features/search/presentation/views/widget/custom_smooth_page_indicator.dart';
@@ -30,3 +31,4 @@ class _CustomSearchViewBodyState extends State<CustomSearchViewBody> {
     );
   }
 }
+*/

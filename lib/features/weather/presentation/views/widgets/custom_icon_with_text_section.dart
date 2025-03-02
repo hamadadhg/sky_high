@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/managers/models/location_and_current_model/location_and_current_model.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_icon_with_text.dart';
@@ -24,3 +25,4 @@ class CustomIconWithTextSection extends StatelessWidget {
     );
   }
 }
+*/

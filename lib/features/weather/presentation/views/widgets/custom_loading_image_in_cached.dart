@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:sky_high/core/styles/style_to_colors.dart';
@@ -26,3 +27,4 @@ class CustomLoadingImageInCached extends StatelessWidget {
     );
   }
 }
+*/

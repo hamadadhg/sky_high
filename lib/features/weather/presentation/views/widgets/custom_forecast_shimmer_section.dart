@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_card_shimmer.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_text_shimmer_weather.dart';
@@ -25,3 +26,4 @@ class CustomForecastShimmerSection extends StatelessWidget {
     );
   }
 }
+*/

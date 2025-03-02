@@ -1,3 +1,4 @@
+/*
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_icon_error.dart';
@@ -37,3 +38,4 @@ class CustomCachedNetworkImage extends StatelessWidget {
     );
   }
 }
+*/

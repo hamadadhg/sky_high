@@ -1,3 +1,4 @@
+/*
 class ForecastDayModel {
   final String day;
   final String weatherStatus;
@@ -30,3 +31,4 @@ class ForecastDayModel {
     );
   }
 }
+*/

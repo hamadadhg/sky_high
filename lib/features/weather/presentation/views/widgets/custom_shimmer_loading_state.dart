@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_app_bar_shimmer_section.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_forecast_shimmer_section.dart';
@@ -32,3 +33,4 @@ class CustomShimmerLoadingState extends StatelessWidget {
     );
   }
 }
+*/

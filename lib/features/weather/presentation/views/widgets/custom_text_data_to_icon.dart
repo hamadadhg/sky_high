@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/weather/presentation/views/widgets/custom_text_to_four_details_weather.dart';
 
@@ -29,3 +30,4 @@ class CustomTextDataToIcon extends StatelessWidget {
     );
   }
 }
+*/

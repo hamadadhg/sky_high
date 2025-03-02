@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/features/location/presentation/views/widgets/custom_location_view_body.dart';
 import 'package:sky_high/features/search/presentation/views/widget/custom_text_field.dart';
@@ -18,3 +19,4 @@ class CustomPageView extends StatelessWidget {
     );
   }
 }
+*/

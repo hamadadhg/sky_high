@@ -1,3 +1,4 @@
+/*
 import 'package:sky_high/features/weather/presentation/managers/models/forecast_day_model/forecast_day_model.dart';
 
 class LocationAndCurrentModel {
@@ -24,3 +25,4 @@ class LocationAndCurrentModel {
     );
   }
 }
+*/

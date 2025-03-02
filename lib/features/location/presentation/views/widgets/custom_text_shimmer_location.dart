@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
 import 'package:sky_high/core/constant/duration_constant.dart';
@@ -21,3 +22,4 @@ class CustomTextShimmerLocation extends StatelessWidget {
     );
   }
 }
+*/

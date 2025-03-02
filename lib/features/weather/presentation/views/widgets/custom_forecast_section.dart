@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:sky_high/core/styles/style_to_texts.dart';
 import 'package:sky_high/features/weather/presentation/managers/models/forecast_day_model/forecast_day_model.dart';
@@ -27,3 +28,4 @@ class CustomForecastSection extends StatelessWidget {
     );
   }
 }
+*/
